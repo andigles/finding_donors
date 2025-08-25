@@ -3,3 +3,4 @@ starter/.ipynb_checkpoints/
 __pycache__/
 starter/__pycache__/
 *.pyc
+.vscode/
