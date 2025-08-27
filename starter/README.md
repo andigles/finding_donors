@@ -1,3 +1,6 @@
+> **Note:** This is the original Udacity README for the project files in `starter/`.  
+> For local setup and quickstart, see the root `README.md` in the repository.
+
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
@@ -20,17 +23,20 @@ Template code is provided in the `finding_donors.ipynb` notebook file. You will 
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `finding_donors/` and run one of:
 
 ```bash
-ipython notebook finding_donors.ipynb
-```  
-or
+jupyter lab
+```
+Then open `starter/finding_donors.ipynb`.
+
+Or run directly:
+
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook starter/finding_donors.ipynb
 ```
 
-This will open the iPython Notebook software and project file in your browser.
+This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
